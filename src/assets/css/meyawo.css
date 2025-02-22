@@ -12472,6 +12472,9 @@ pre .code {
     -webkit-flex-basis: 0;
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
+    display: flex;
+    gap: 5px;
+    justify-content: flex-end;
 }
 
 .footer a,

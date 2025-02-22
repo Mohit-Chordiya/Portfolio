@@ -1,6 +1,5 @@
-import { faPhone } from "@fortawesome/free-solid-svg-icons";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa6";
-import { IoCall } from "react-icons/io5";
+import { MdEmail } from "react-icons/md";
 
 const Footer = () => {
     const currentYear = new Date().getFullYear();
@@ -14,22 +13,25 @@ const Footer = () => {
                     </p>
                     <div className="social-links text-right m-auto ml-sm-auto">
                         <a
-                            href="javascript:void(0)"
+                            href="https://www.linkedin.com/in/mohit-chordiya-783a16185"
                             className="link text-decoration-none"
+                            target="_blank"
                         >
                             <FaLinkedinIn className="social-icons" />
                         </a>
                         <a
-                            href="javascript:void(0)"
+                            href="https://github.com/Mohit-Chordiya"
                             className="link text-decoration-none"
+                            target="_blank"
                         >
                             <FaGithub className="social-icons" />
                         </a>
                         <a
-                            href="javascript:void(0)"
+                            href="mailto: mohitmchordiya33@gmail.com"
                             className="link text-decoration-none"
+                            target="_blank"
                         >
-                            <IoCall className="social-icons" />
+                            <MdEmail className="social-icons" />
                         </a>
                     </div>
                 </footer>
