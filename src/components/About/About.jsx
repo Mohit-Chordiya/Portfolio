@@ -30,17 +30,25 @@ const About = () => {
                         <p className="section-subtitle">Who Am I ?</p>
                         <h2 className="section-title mb-3">About Me</h2>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing
-                            elit. Repudiandae aliquid ad provident aut fuga
-                            animi soluta quae eos non cupiditate voluptates
-                            dolorem, doloremque quos dicta quibusdam impedit
-                            iure nemo a iste culpa! Quasi quibusdam hic
-                            recusandae delectus velit officiis explicabo
-                            voluptatibus! Nemo esse similique, voluptates labore
-                            distinctio, placeat explicabo facilis molestias,
-                            blanditiis culpa iusto voluptatem ratione eligendi
-                            a, quia temporibus velit vero ipsa sint ex
-                            voluptatum expedita aliquid! Debitis, nam!
+                            Hi, my name is Mohit Chordiya. I have completed
+                            Bachelor’s of Engineering in Computer Engineering
+                            from Pune University. During my engineering I have
+                            gained significant knowledge related to software
+                            development. Which increased my curiosity to get
+                            more knowledge so right now I am pursuing Java Full
+                            Stack Development certification course. Through this
+                            course I have created website design from scratch
+                            and make it responsive and attractive. I have worked
+                            on several projects that help me sharpen my
+                            technical skills and learn new technologies.
+                            Additionally, I have completed an internship in
+                            which I gained hands on experience with Git and
+                            GitHub. Beyond academics I have attended some
+                            workshops in IIT Bombay related to Metallurgy on
+                            Lasers and its applications and also Transmission
+                            Electron Microscopy. This depicts that I have
+                            curiosity to learn new things and adapt to new
+                            technology comfortably.
                         </p>
                         <button
                             className="btn-rounded btn btn-outline-primary mt-4"

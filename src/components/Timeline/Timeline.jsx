@@ -12,12 +12,11 @@ import {
     faUniversity,
     faStar,
 } from "@fortawesome/free-solid-svg-icons";
-// import { faStar } from "@fortawesome/free-solid-svg-icons/faStar";
 
 const Timeline = () => {
     return (
         <>
-            <section className="section" id="timeline">
+            <section className="section" id="education">
                 <div className="container text-center">
                     <p className="section-subtitle">What Is My Background ?</p>
                     <h6 className="section-title mb-6">Education</h6>

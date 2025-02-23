@@ -64,7 +64,7 @@ const Skills = () => {
                                     />
                                     <h6 className="title">HTML</h6>
                                     <p className="subtitle">
-                                        Hypertext Markup Language (HTML)is a
+                                        Hypertext Markup Language (HTML) is a
                                         text-based language that describes how
                                         content is structured on a web page.
                                     </p>
